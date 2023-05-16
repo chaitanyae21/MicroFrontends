@@ -8,3 +8,6 @@ The only purpose of micro front-ends is to share UI between applications, not Ja
 The purpose of module federation is to share JavaScript code between applications, not UI. So, the shared code can be used in an app.
 
 They are actually complementary. So, with module federation in a micro-frontend app, you can avoid duplicated code and provide shared UI components across the entire app.
+
+
+find more at - https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee
